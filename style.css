@@ -7,8 +7,8 @@
 
 #balken {
 
-    border-bottom: 20px solid black;
-    margin-top: 5px;
+    border-bottom: 0.5cm solid black;
+    margin-top: 1%;
     margin-left: 600px;
     margin-right: 600px;
     
@@ -32,6 +32,10 @@ h1
 h2 {
     text-align: center;
 }
+
+
+
+
 
 
 
