@@ -1,0 +1,22 @@
+#logo {
+    width: 100px; 
+    display: block;
+    margin: 0px auto;
+
+}
+
+#apo {
+    font-size: 80px;
+    text-align: center;
+}
+
+#balken {
+
+    border-bottom: 30px solid black;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+
+}
