@@ -22,16 +22,18 @@ h1
     margin-bottom: 1%;
 }
 
-#maps {
-    align:center;
-    margin-top: 1%;
-    margin-left: 40%;
-    margin-bottom: 3%;  
-    width: 20%;
-    margin-right: 40%;
-    
-}
-
 h2 {
     text-align: center;
+}
+
+#tabel {
+    width: 100%;
+}
+
+#tabeltr {
+
+}
+
+#maps {
+    
 }
