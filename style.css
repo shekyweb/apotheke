@@ -6,7 +6,7 @@
 
 #balken {
 
-    border-bottom: 16px solid black;
+    border-bottom: 20px solid black;
     margin-top: 0%;
     margin-left: 25%;
     margin-right: 25%;
@@ -17,9 +17,9 @@ h1
 {
     color: red;
     text-shadow: 0px 5px 10px black, 0px 5px 10px black, 0px 5px 10px black;
-    font-size: 620%;
     text-align: center;
     margin-bottom: 1%;
+    font-size: 620%; 
 }
 
 h2 {
@@ -37,3 +37,9 @@ h2 {
 #maps {
     
 }
+
+#pro {
+    margin-top: 3%;
+}
+
+
