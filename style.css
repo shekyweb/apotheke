@@ -1,11 +1,10 @@
 #logo {
-    width: 8%; 
+    width: 10%; 
     display: block;
     margin: 0px auto;
 }
 
-#balken {
-
+#balken1 {
     border-bottom: 20px solid black;
     margin-top: 0%;
     margin-left: 25%;
@@ -32,8 +31,27 @@ h2 {
 
 #pro {
     margin-top: 3%;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
-#produkte1 {
-    
+h3 {
+    text-align: center;
+}
+
+#balken2 {
+    border-bottom: 30px solid black;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 4%;
+}
+
+#balken3 {
+    border-bottom: 30px solid black;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 4%;
 }
