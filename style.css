@@ -55,3 +55,20 @@ h3 {
     margin-right: 5%;
     margin-bottom: 4%;
 }
+
+#balken4 {
+    border-bottom: 30px solid black;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 4%;
+}
+
+#video {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 531px;
+}
+
+
